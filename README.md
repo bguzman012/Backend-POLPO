@@ -6,7 +6,7 @@ Se presenta la solución de la parte backend con la siguiente estructura:
 * controllers
 * models
 * routes
-server.js
+* server.js
 
 Esto con el motivo de separar responsabilidades de cada recurso.
 
